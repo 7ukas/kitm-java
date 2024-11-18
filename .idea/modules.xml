@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../KITM/Java(KM)/Java(KM).iml" filepath="$PROJECT_DIR$/../../../KITM/Java(KM)/Java(KM).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../KITM/Java(KM)/kitm-java/kitm-java.iml" filepath="$PROJECT_DIR$/../../../KITM/Java(KM)/kitm-java/kitm-java.iml" />
+    </modules>
+  </component>
+</project>
